@@ -25,3 +25,11 @@ drwxr-xr-x   3 n.bezdolniy  staff   96  6 дек 23:17 b8
 drwxr-xr-x   3 n.bezdolniy  staff   96  6 дек 23:18 f8
 drwxr-xr-x   2 n.bezdolniy  staff   64  6 дек 23:12 info
 drwxr-xr-x   2 n.bezdolniy  staff   64  6 дек 23:12 pack
+total 24
+drwxr-xr-x    7 n.bezdolniy  staff   224 21 нояб.  2024 .
+drwxr-xr-x  162 n.bezdolniy  staff  5184  6 февр. 20:24 ..
+drwxr-xr-x   15 n.bezdolniy  staff   480 10 февр. 19:37 .git
+-rw-r--r--    1 n.bezdolniy  staff    18  6 дек.   2021 .gitignore
+drwxr-xr-x    8 n.bezdolniy  staff   256  8 дек.   2021 .idea
+-rw-r--r--    1 n.bezdolniy  staff  1513 29 нояб.  2022 listing.txt
+-rw-r--r--    1 n.bezdolniy  staff    70  6 дек.   2021 README.md
